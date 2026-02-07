@@ -82,8 +82,8 @@ The code may be reused and modified with appropriate citation of the original wo
 If you use or refer to this repository, please cite the paper:
 
 *Discrete Structure and the Unification of Physics*  
-Bertrand Souverain  
-(Year of publication)
+Bertrand Jarry  
+(Year of publication 2026)
 
 ---
 
